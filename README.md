@@ -1,8 +1,8 @@
-# VDrift
+# Neonion Dashboard
 
 ##Over view
 ![overview](design/overview.png "overview")
-**Description**: This Demo used to show the concept VDrift, more information please see [VDrift Demo](http://wikicentral.cisco.com/display/PROJECT/VDrift+Demo)
+**Description**: This Demo used to show the concept Neonion Dashboard
 
 Possible Application Scenarios:
 
